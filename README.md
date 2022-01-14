@@ -17,4 +17,5 @@ Instructions for YGOPRODECK collection import:
 3) Upload a ".csv" file from this repository
 
 "Commons.csv" is an Excel file with all common cards from all sets.
+
 "Commons-Unique.csv" is the same but with removed duplicates.
